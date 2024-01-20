@@ -21,6 +21,5 @@ public class App {
 
         System.out.println(cat1.equals(cat2));
 
-
     }
 }
